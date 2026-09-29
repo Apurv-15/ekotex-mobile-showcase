@@ -1,6 +1,6 @@
 # Ekotex — Multi-Branch Field & Inventory App
 
-> **Live Web Portal (Vercel):** [https://ekotex-mobile-demo.vercel.app](https://ekotex-mobile-demo.vercel.app)  
+> **Live Production Web Portal:** [https://greffon-technology.vercel.app](https://greffon-technology.vercel.app)  
 > **Client:** Ekotex Electrificient  
 > **Tech Stack:** React Native (Expo), Supabase PostgreSQL, FlashList, Offline-First Delta Sync
 
@@ -19,9 +19,9 @@ Ekotex is a cross-platform enterprise React Native app automating product warran
 
 ---
 
-## 🔗 Reviewing the Live Portal
-Visit the live Vercel web admin & mobile simulator:  
-👉 **[https://ekotex-mobile-demo.vercel.app](https://ekotex-mobile-demo.vercel.app)**
+## 🔗 Live Application Link
+Visit the live Vercel web admin & mobile portal:  
+👉 **[https://greffon-technology.vercel.app](https://greffon-technology.vercel.app)**
 
 ---
 
